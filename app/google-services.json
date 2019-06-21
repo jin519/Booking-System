@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846736027216",
+    "firebase_url": "https://hw4projectwonjin.firebaseio.com",
+    "project_id": "hw4projectwonjin",
+    "storage_bucket": "hw4projectwonjin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846736027216:android:941d38dec73c8d4e",
+        "android_client_info": {
+          "package_name": "com.wonjin.computer.hw4projectwonjin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846736027216-eiopg3op4m62levpgdkujhc8tj1hk83r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wonjin.computer.hw4projectwonjin",
+            "certificate_hash": "f64bcaa3318f99deb6eb5711e6818324a5bd8be1"
+          }
+        },
+        {
+          "client_id": "846736027216-qi0koiuqhi0bb81h2ujtin72rndohd30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtr-8uk_nkvGHCxWcb0ZW3SPCQuDot7zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846736027216-qi0koiuqhi0bb81h2ujtin72rndohd30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

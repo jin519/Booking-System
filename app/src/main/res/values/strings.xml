@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW4ProjectWonjin</string>
+    <string name="db_root_path">WonjinDb</string>
+    <string name="pref_root_path">WonjinPref</string>
+</resources>

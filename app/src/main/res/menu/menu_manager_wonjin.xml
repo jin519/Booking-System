@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MENU_MANAGER_managingGroup"
+        android:title="그룹"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/MENU_MANAGER_managingUser"
+        android:title="사용자"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/MENU_MANAGER_managingSettings"
+        android:title="설정"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/MENU_MANAGER_logout"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="로그아웃"
+        app:showAsAction="always" />
+</menu>
